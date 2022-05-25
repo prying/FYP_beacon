@@ -1,0 +1,10 @@
+{
+  "nrf-connect.applications": [
+    "${workspaceFolder}"
+  ],
+  "nrf-connect.topdir": "${nrf-connect.sdk:1.9.1}",
+  "files.associations": {
+    "hci.h": "c",
+    "nrfx_power.h": "c"
+  }
+}
